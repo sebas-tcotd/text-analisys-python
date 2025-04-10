@@ -1,0 +1,5 @@
+beautifulsoup4
+jupyter
+matplotlib
+requests
+wordcloud
